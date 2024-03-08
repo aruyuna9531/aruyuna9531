@@ -1,4 +1,4 @@
-### 大家好呀， 这里是yuna~
+# 大家好呀， 这里是yuna~
 
 <!--
 **aruyuna9531/aruyuna9531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 邮箱：yuna9531@163.com
 
-# 额外情况
+## 额外情况
 生日：3月1日
 
 目前人在：上海市
