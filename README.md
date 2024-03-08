@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 基本情况
-目前的工作方向：游戏服务端开发（C/S）
+目前的工作方向：游戏服务端开发
 
 目前编程语言熟悉程度：Golang≈C/C++>Lua>Node.js>Java≈Python≈原生JavaScript（没列出来的就是还没接触过）
 
