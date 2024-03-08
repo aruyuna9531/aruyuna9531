@@ -1,4 +1,4 @@
-# 大家好呀， 这里是yuna~
+# 你好呀， 这里是yuna~
 
 <!--
 **aruyuna9531/aruyuna9531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 目前人在：上海市
 
-兴趣爱好：翻唱、打游戏、日语交流（N1已过）、cosplay（←目前只试过1次）、搞乐器、宅舞
+兴趣爱好：翻唱、日语交流（N1已过）、cosplay（←目前只试过1次）、搞乐器、宅舞
 
 喜欢的游戏类型：音游、休闲养成（可带少量硬核元素）、单机（含PC和主机游戏，像素风除外）
 
